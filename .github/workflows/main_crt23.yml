@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'crt23'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7BAAEDD8315F422884DFE644E6F9C777 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_76BEE6E2B7034F059AB746A8544DB255 }}
